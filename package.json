@@ -1,0 +1,23 @@
+{
+  "name": "12-homework",
+  "version": "1.0.0",
+  "description": "content management system for workers to interact with databases.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwatson115/12-Homework.git"
+  },
+  "author": "Ian Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianwatson115/12-Homework/issues"
+  },
+  "homepage": "https://github.com/ianwatson115/12-Homework#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
